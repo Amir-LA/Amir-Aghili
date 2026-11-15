@@ -1,0 +1,20 @@
+.header .logo-text{font-size:24px;font-weight:700;letter-spacing:.5px;color:#fff;vertical-align:middle}
+.page-on-scroll .header .logo-text{color:#1d1d1d}
+.footer .logo-text{font-size:22px;font-weight:700;color:#1d1d1d}
+.promo-block .social-icons{font-size:22px}
+
+.cert-list{list-style:none;margin:0;padding:0}
+.cert-item{padding:12px 0 12px 16px;border-left:3px solid #17bed2;margin-bottom:12px;background:#fff}
+.cert-item strong{display:block;font-weight:600;color:#2b2b2b}
+.cert-item span{display:block;font-size:14px}
+.post-card{background:#fff;height:100%}
+.post-card img{display:block}
+.post-card-body{padding:20px 22px 24px}
+.post-card-body h3{font-size:20px;margin:6px 0 10px}
+.post-card-body ul{padding-left:18px;margin:0 0 18px;font-size:14px}
+.post-card-body li{margin-bottom:6px}
+.post-date{font-size:13px;color:#17bed2;font-weight:600}
+.header .logo-text,.footer .logo-text{white-space:nowrap}
+.header .logo-wrap{display:block;width:180px}
+@media (min-width:992px){#posts .row-space-2{display:flex}#posts .row-space-2>div{display:flex;flex-direction:column}.post-card{flex:1}}
+.cert-item strong a{color:#2b2b2b;font-weight:600;border-bottom:1px solid #17bed2}.cert-item strong a:hover{color:#17bed2}
